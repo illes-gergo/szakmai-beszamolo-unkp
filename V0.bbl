@@ -118,6 +118,7 @@
       \strng{authorbibnamehash}{094174d4f198f15de0dc9faf52245d8b}
       \strng{authornamehash}{0c988d664c6bc0f419baafcc34e11501}
       \strng{authorfullhash}{094174d4f198f15de0dc9faf52245d8b}
+      \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -181,6 +182,125 @@
       \field{year}{2022}
       \field{pages}{MTh3C\bibrangedash 2}
       \range{pages}{-1}
+    \endentry
+    \entry{ravi2015theory}{article}{}
+      \name{author}{7}{}{%
+        {{hash=2c3d375505b0a2ed2b2d3a06b61634c0}{%
+           family={Ravi},
+           familyi={R\bibinitperiod},
+           given={Koustuban},
+           giveni={K\bibinitperiod}}}%
+        {{hash=4f89de3de92a89f5ff16151b73f13745}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Wenqian\bibnamedelima Ronny},
+           giveni={W\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=c661ace2e705935fcd59dba62f4ecab1}{%
+           family={Carbajo},
+           familyi={C\bibinitperiod},
+           given={Sergio},
+           giveni={S\bibinitperiod}}}%
+        {{hash=98b8c68ef41ff4bcc4d2a97f499cc841}{%
+           family={Nanni},
+           familyi={N\bibinitperiod},
+           given={Emilio\bibnamedelima A},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=19c916a4c9229b47b6ecfecf1410d01b}{%
+           family={Schimpf},
+           familyi={S\bibinitperiod},
+           given={Damian\bibnamedelima N},
+           giveni={D\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=aaff6abdbb28879a442f09da27788f46}{%
+           family={Ippen},
+           familyi={I\bibinitperiod},
+           given={Erich\bibnamedelima P},
+           giveni={E\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=184e4bf6340bab78a5b563aa627d7189}{%
+           family={Kärtner},
+           familyi={K\bibinitperiod},
+           given={Franz\bibnamedelima X},
+           giveni={F\bibinitperiod\bibinitdelim X\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Optical Society of America}%
+      }
+      \strng{namehash}{e1f76f8dd97a55784ca9af7678174473}
+      \strng{fullhash}{1c7cebcaeb30bf2520d78964fc583b44}
+      \strng{bibnamehash}{e1f76f8dd97a55784ca9af7678174473}
+      \strng{authorbibnamehash}{e1f76f8dd97a55784ca9af7678174473}
+      \strng{authornamehash}{e1f76f8dd97a55784ca9af7678174473}
+      \strng{authorfullhash}{1c7cebcaeb30bf2520d78964fc583b44}
+      \field{extraname}{2}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Optics express}
+      \field{number}{4}
+      \field{title}{Theory of terahertz generation by optical rectification using tilted-pulse-fronts}
+      \field{volume}{23}
+      \field{year}{2015}
+      \field{pages}{5253\bibrangedash 5276}
+      \range{pages}{24}
+    \endentry
+    \entry{toth2019numerical}{article}{}
+      \name{author}{7}{}{%
+        {{hash=2962b84a81e12d57ab00e00d7c5e044f}{%
+           family={Tóth},
+           familyi={T\bibinitperiod},
+           given={György},
+           giveni={G\bibinitperiod}}}%
+        {{hash=704da0f42a90455cb3f6e01b8fd94a6d}{%
+           family={Pálfalvi},
+           familyi={P\bibinitperiod},
+           given={László},
+           giveni={L\bibinitperiod}}}%
+        {{hash=92293c492051a5acc81a4e2d79204892}{%
+           family={Fülöp},
+           familyi={F\bibinitperiod},
+           given={József\bibnamedelima A},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=f08c70f11a4ec0f9d012173e8abbadea}{%
+           family={Krizsán},
+           familyi={K\bibinitperiod},
+           given={Gergő},
+           giveni={G\bibinitperiod}}}%
+        {{hash=70915a8aea029ff728c5cfa809d72769}{%
+           family={Matlis},
+           familyi={M\bibinitperiod},
+           given={Nicholas\bibnamedelima H},
+           giveni={N\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=75ae02039279cd79aa3db1c17acb1777}{%
+           family={Almási},
+           familyi={A\bibinitperiod},
+           given={Gábor},
+           giveni={G\bibinitperiod}}}%
+        {{hash=016c05d7994fbf587a2f0dea487b4d05}{%
+           family={Hebling},
+           familyi={H\bibinitperiod},
+           given={János},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Optical Society of America}%
+      }
+      \strng{namehash}{238f796f818b3cc9a511fff022bfce6f}
+      \strng{fullhash}{88f24cb84f4ab90b0f475737cac5bdea}
+      \strng{bibnamehash}{238f796f818b3cc9a511fff022bfce6f}
+      \strng{authorbibnamehash}{238f796f818b3cc9a511fff022bfce6f}
+      \strng{authornamehash}{238f796f818b3cc9a511fff022bfce6f}
+      \strng{authorfullhash}{88f24cb84f4ab90b0f475737cac5bdea}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Optics express}
+      \field{number}{5}
+      \field{title}{Numerical investigation of imaging-free terahertz generation setup using segmented tilted-pulse-front excitation}
+      \field{volume}{27}
+      \field{year}{2019}
+      \field{pages}{7762\bibrangedash 7775}
+      \range{pages}{14}
     \endentry
   \enddatalist
 \endrefsection

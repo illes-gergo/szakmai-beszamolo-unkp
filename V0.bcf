@@ -2351,9 +2351,13 @@
     <bcf:citekey order="1">illes2022terahertz</bcf:citekey>
     <bcf:citekey order="2">ravi2014limitations</bcf:citekey>
     <bcf:citekey order="3">nasi2022comparison</bcf:citekey>
-    <bcf:citekey order="4">illes2022terahertz</bcf:citekey>
-    <bcf:citekey order="5">ravi2014limitations</bcf:citekey>
-    <bcf:citekey order="6">nasi2022comparison</bcf:citekey>
+    <bcf:citekey order="4">ravi2015theory</bcf:citekey>
+    <bcf:citekey order="5">toth2019numerical</bcf:citekey>
+    <bcf:citekey order="6">illes2022terahertz</bcf:citekey>
+    <bcf:citekey order="7">ravi2014limitations</bcf:citekey>
+    <bcf:citekey order="8">nasi2022comparison</bcf:citekey>
+    <bcf:citekey order="9">ravi2015theory</bcf:citekey>
+    <bcf:citekey order="10">toth2019numerical</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
