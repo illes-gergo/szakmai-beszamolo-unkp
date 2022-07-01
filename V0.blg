@@ -1,0 +1,14 @@
+[0] Config.pm:307> INFO - This is Biber 2.17
+[0] Config.pm:310> INFO - Logfile is 'V0.blg'
+[147] biber-MSWIN64:340> INFO - === 
+[205] Biber.pm:418> INFO - Reading 'V0.bcf'
+[361] Biber.pm:972> INFO - Found 3 citekeys in bib section 0
+[381] Biber.pm:4383> INFO - Processing section 0
+[395] Biber.pm:4574> INFO - Looking for bibtex file 'irodalomjegyzek.bib' for section 0
+[477] bibtex.pm:1713> INFO - LaTeX decoding ...
+[521] bibtex.pm:1518> INFO - Found BibTeX data source 'irodalomjegyzek.bib'
+[589] UCollate.pm:68> INFO - Overriding locale 'hu-HU' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[589] UCollate.pm:68> INFO - Overriding locale 'hu-HU' defaults 'variable = shifted' with 'variable = non-ignorable'
+[590] Biber.pm:4203> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'hu-HU'
+[594] bbl.pm:654> INFO - Writing 'V0.bbl' with encoding 'UTF-8'
+[597] bbl.pm:757> INFO - Output to V0.bbl

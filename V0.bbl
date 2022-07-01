@@ -1,0 +1,188 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{illes2022terahertz}{inproceedings}{}
+      \name{author}{8}{}{%
+        {{hash=a63b94493e5a60249fb94c1ee9d0b10e}{%
+           family={Illés},
+           familyi={I\bibinitperiod},
+           given={Gergő},
+           giveni={G\bibinitperiod}}}%
+        {{hash=6c92cfe9298440b16ba5c8c286de664a}{%
+           family={Tibai},
+           familyi={T\bibinitperiod},
+           given={Zoltán},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=704da0f42a90455cb3f6e01b8fd94a6d}{%
+           family={Pálfalvi},
+           familyi={P\bibinitperiod},
+           given={László},
+           giveni={L\bibinitperiod}}}%
+        {{hash=43b25f08bc7ca810bed03c24362550d4}{%
+           family={Sarkadi},
+           familyi={S\bibinitperiod},
+           given={Batózs},
+           giveni={B\bibinitperiod}}}%
+        {{hash=a744ee674d90c05821fe5e50526b574a}{%
+           family={Mészáros},
+           familyi={M\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod}}}%
+        {{hash=75ae02039279cd79aa3db1c17acb1777}{%
+           family={Almási},
+           familyi={A\bibinitperiod},
+           given={Gábor},
+           giveni={G\bibinitperiod}}}%
+        {{hash=016c05d7994fbf587a2f0dea487b4d05}{%
+           family={Hebling},
+           familyi={H\bibinitperiod},
+           given={János},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2962b84a81e12d57ab00e00d7c5e044f}{%
+           family={Tóth},
+           familyi={T\bibinitperiod},
+           given={György},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Optica Publishing Group}%
+      }
+      \strng{namehash}{04262be43bf96ed1f0d57828549e6a35}
+      \strng{fullhash}{09dcf4a4e5e44b73ada1835cbcb98662}
+      \strng{bibnamehash}{04262be43bf96ed1f0d57828549e6a35}
+      \strng{authorbibnamehash}{04262be43bf96ed1f0d57828549e6a35}
+      \strng{authornamehash}{04262be43bf96ed1f0d57828549e6a35}
+      \strng{authorfullhash}{09dcf4a4e5e44b73ada1835cbcb98662}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{High Intensity Lasers and High Field Phenomena}
+      \field{title}{Terahertz Generation by Imaging-free Nonlinear Echelon Slab}
+      \field{year}{2022}
+      \field{pages}{JW5A\bibrangedash 13}
+      \range{pages}{-1}
+    \endentry
+    \entry{ravi2014limitations}{article}{}
+      \name{author}{5}{}{%
+        {{hash=2c3d375505b0a2ed2b2d3a06b61634c0}{%
+           family={Ravi},
+           familyi={R\bibinitperiod},
+           given={Koustuban},
+           giveni={K\bibinitperiod}}}%
+        {{hash=c23de70107007808aaf9b23b17481fee}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={W\bibnamedelima Ronny},
+           giveni={W\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=c661ace2e705935fcd59dba62f4ecab1}{%
+           family={Carbajo},
+           familyi={C\bibinitperiod},
+           given={Sergio},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e35dd8180098061423d82a2d8bf55ab1}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Xiaojun},
+           giveni={X\bibinitperiod}}}%
+        {{hash=8d3d0f621027d7ab10b0039670e871b7}{%
+           family={Kärtner},
+           familyi={K\bibinitperiod},
+           given={Franz},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Optical Society of America}%
+      }
+      \strng{namehash}{0c988d664c6bc0f419baafcc34e11501}
+      \strng{fullhash}{094174d4f198f15de0dc9faf52245d8b}
+      \strng{bibnamehash}{094174d4f198f15de0dc9faf52245d8b}
+      \strng{authorbibnamehash}{094174d4f198f15de0dc9faf52245d8b}
+      \strng{authornamehash}{0c988d664c6bc0f419baafcc34e11501}
+      \strng{authorfullhash}{094174d4f198f15de0dc9faf52245d8b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Optics express}
+      \field{number}{17}
+      \field{title}{Limitations to THz generation by optical rectification using tilted pulse fronts}
+      \field{volume}{22}
+      \field{year}{2014}
+      \field{pages}{20239\bibrangedash 20251}
+      \range{pages}{13}
+    \endentry
+    \entry{nasi2022comparison}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=b272b68c6fe462e71ef6372fd8780e22}{%
+           family={Nasi},
+           familyi={N\bibinitperiod},
+           given={Luis},
+           giveni={L\bibinitperiod}}}%
+        {{hash=a63b94493e5a60249fb94c1ee9d0b10e}{%
+           family={Illés},
+           familyi={I\bibinitperiod},
+           given={Gergő},
+           giveni={G\bibinitperiod}}}%
+        {{hash=635aac76f5bfc6b35e72d48b180879eb}{%
+           family={Nazymbekhov},
+           familyi={N\bibinitperiod},
+           given={Gabit},
+           giveni={G\bibinitperiod}}}%
+        {{hash=704da0f42a90455cb3f6e01b8fd94a6d}{%
+           family={Pálfalvi},
+           familyi={P\bibinitperiod},
+           given={László},
+           giveni={L\bibinitperiod}}}%
+        {{hash=016c05d7994fbf587a2f0dea487b4d05}{%
+           family={Hebling},
+           familyi={H\bibinitperiod},
+           given={János},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2962b84a81e12d57ab00e00d7c5e044f}{%
+           family={Tóth},
+           familyi={T\bibinitperiod},
+           given={György},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Optica Publishing Group}%
+      }
+      \strng{namehash}{107c6b24787f3665a697301070b23957}
+      \strng{fullhash}{2db998f58d680850846f4f259bd3872e}
+      \strng{bibnamehash}{2db998f58d680850846f4f259bd3872e}
+      \strng{authorbibnamehash}{2db998f58d680850846f4f259bd3872e}
+      \strng{authornamehash}{107c6b24787f3665a697301070b23957}
+      \strng{authorfullhash}{2db998f58d680850846f4f259bd3872e}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Mid-Infrared Coherent Sources}
+      \field{title}{Comparison of Lithium Niobate Based Multicycle Terahertz Sources for Pulse Shape Control}
+      \field{year}{2022}
+      \field{pages}{MTh3C\bibrangedash 2}
+      \range{pages}{-1}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

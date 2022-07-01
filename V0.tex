@@ -1,0 +1,26 @@
+\documentclass[12pt, a4paper]{article}
+\usepackage{times}
+\usepackage[T1]{fontenc}
+\usepackage[margin = 1in]{geometry}
+\usepackage[magyar]{babel}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{float}
+\usepackage[style=ieee]{biblatex}
+\usepackage{csquotes}
+\usepackage{hyperref}
+\addbibresource{irodalomjegyzek.bib}
+\title{UNKP Szakmai beszámoló}
+\author{Illés Gergő - HHU75J}
+\date{}
+\begin{document}
+
+\maketitle
+\section{A kutatási tervben említettek teljesítése}
+\subsection{Első szakasz (5 hónap)}
+A szeptembertől januárig tartó 5 hónapra terveztük a ,,Terahertzes impulzusok előállítása mikrostrukturált lítium niobát kristályban'' című TDK dolgozatban bemutatott eredményeit felhasználva illetve azokat bővítve egy nemzetközi publikációt megírni. Ez meg is valósult a 2022. március 22. és 25. között az amerikai Optica (előzőleg OSA) által megrendezésre került High-Brightness Sources and Light-Driven Interactions Congress keretein belül \cite{illes2022terahertz}. A konferencián az anyag poszter formájában került bemutatásra, amely poszter kéziratának leadási határideje 2021. december 21. volt. A poszteren szerepeltek a TDK dolgozatban bemutatott eredmények amelyek bemutatták, hogy az egyes geometriai paraméterek megváltoztatása hogyan befolyásolják a keletkező terahertzes (továbbiakban THz-es) impulzusok alakját a nyaláb keresztmetszete mentén. A poszter tárgyalta még az elrendezésben használt optikai rács orientációjának fontosságát, számítási eredményeket mutat be arról, hogy a Littrow-szögtől való eltérés függvényében hogyan változik az elrendezés hatásfoka. Új eredményként bemutatásra került egy olyan számítássorozat amely vizsgálja azt, hogy a kristályhossz és a pumpa nyalábméretének függvényében hogy alakul egy optimalizált elrendezés hatásfoka, illetve az elrendezés által keltett THz-es impulzus energiája.\\
+Ezzel egy időben megkezdtük egy új THz-es numerikus modell elkészítését amely már figyelembe veszi a THz-es jel visszahatását a pumpaimpulzusra. Ezen modell elkészítéshez \cite{ravi2014limitations} cikket vettük alapul. A modell elkészítésekor a nehézséget a csatolt differenciálegyenlet rendszer megoldása okozta. Ehhez saját magam írtam egy olyan kódot ami tetszőleges számú tagból álló első fokú differenciálegyenlet-rendszert képes megoldani negyed rendű Runge-Kutta módszerrel. Megkezdtük a kód tesztelését technikai szempontból. Vizsgáltuk a szükséges térbeli, illetve időbeli felbontást olyan tekintetben, hogy milyen felbontások szükségesek a stabil megoldásához. Fizikailag és informatikailag optimalizáltuk a kódot gyorsabb futási idők elérése érdekében. Egyes számítások amelyek ezen kód készültségének korai fázisában készültek szintén bemutatásra kerültek a igh-Brightness Sources and Light-Driven Interactions Congress-en rövid előadás formájában \cite{nasi2022comparison}.
+\section{Második szakasz (5 hónap)}
+A második szakaszban ezen 1D+1-es kód továbbfejlesztésén dolgoztam elsősorban, valamint részletesen vizsgáltam a kapott eredményeket az egyszerűbb visszahatás nélküli modellel összehasonlítva. Ezen összehasonlítások elsősorban a keltési hatásfokra, valamint a THz-es térerősség időbeli alakjára vonatkoztak. Ezek a számítások  azt mutatták hogy a döntött impulzusfrontú gerjesztés elrendezésnél a visszahatás következtében a hatásfok átlagosan ötödére csökkent, a kristályhossz pedig 
+\printbibliography[heading = bibintoc, title = Hivatkozások]
+\end{document}
